@@ -1,1 +1,1 @@
-scheme-script main.ss
+call r6rs main.sps
